@@ -7,394 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fddc2475-1a25-44c7-b239-123ed9958fc6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/crm_28_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/antlr-2.7.7.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/asm-3.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/asm-commons-3.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/asm-tree-3.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/c3p0-0.9.2.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-io-2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-lang3-3.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/dom4j-1.6.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/fastjson-1.2.8.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/freemarker-2.3.22.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/hibernate-c3p0-5.0.7.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/hibernate-core-5.0.7.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/jandex-2.0.0.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/javassist-3.18.1-GA.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/log4j-1.2.16.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/log4j-api-2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/log4j-core-2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/ognl-3.0.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/slf4j-api-1.6.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/slf4j-log4j12-1.7.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-orm-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/standard.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/struts2-core-2.3.24.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/struts2-spring-plugin-2.3.24.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/xwork-core-2.3.24.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/Manage.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/Style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/info.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/login_1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/login_2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/login_3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/login_button.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_001.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_002.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_003.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_005.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_006.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_008.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_009.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_010.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_011.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_012.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_019.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_020.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_021.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_022.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_023.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_024.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_025.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_026.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/new_027.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/start.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/welcome.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/yes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jquery/calendar-green.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jquery/calendar.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jquery/calendar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jquery/jquery-1.4.2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jquery/jquery.datepick-zh-CN.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jquery/jquery.datepick.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jquery/jquery.datepick.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/Common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/FrameDiv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/jquery-1.11.3.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/jquery-1.4.4.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/customer/add.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/customer/edit.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/customer/list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/error.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/linkman/add.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/linkman/edit.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/linkman/list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/page.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/success.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/totals/sources.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/visit/add.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/jsp/visit/list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/menu.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/regist.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/top.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/welcome.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/crm_28.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/BaseDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/BaseDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/CustomerDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/CustomerDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/DictDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/DictDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/LinkmanDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/LinkmanDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/UserDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/UserDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/VisitDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/dao/VisitDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/Customer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/Customer.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/Dict.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/Dict.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/Linkman.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/Linkman.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/PageBean.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/User.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/User.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/Visit.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/domain/Visit.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/CustomerService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/CustomerServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/DictService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/DictServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/LinkmanService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/LinkmanServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/UserService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/UserServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/VisitService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/service/VisitServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/test/Demo1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/test/Person.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/test/Role.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/utils/FastJsonUtil.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/utils/MD5Utils.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/utils/UploadUtils.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/web/action/BaseAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/web/action/CustomerAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/web/action/DictAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/web/action/LinkmanAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/web/action/UserAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/web/action/VisitAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/com/itheima/web/interceptor/UserInterceptor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/classes/struts.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/antlr-2.7.7.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/asm-3.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/asm-commons-3.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/asm-tree-3.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/c3p0-0.9.2.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/commons-beanutils-1.8.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/commons-io-2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/commons-lang3-3.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/dom4j-1.6.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/fastjson-1.2.8.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/freemarker-2.3.22.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/hibernate-c3p0-5.0.7.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/hibernate-core-5.0.7.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/jandex-2.0.0.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/javassist-3.18.1-GA.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/jstl.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/junit-4.12.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/log4j-1.2.16.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/log4j-api-2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/log4j-core-2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/ognl-3.0.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/slf4j-api-1.6.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-orm-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/standard.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/struts2-core-2.3.24.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/struts2-spring-plugin-2.3.24.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/lib/xwork-core-2.3.24.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/css/Manage.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/css/Style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/info.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/login_1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/login_2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/login_3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/login_button.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_001.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_002.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_003.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_005.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_006.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_008.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_009.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_010.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_011.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_012.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_019.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_020.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_021.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_022.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_023.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_024.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_025.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_026.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/new_027.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/start.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/welcome.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/images/yes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jquery/calendar-green.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jquery/calendar.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jquery/calendar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jquery/jquery-1.4.2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jquery/jquery.datepick-zh-CN.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jquery/jquery.datepick.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jquery/jquery.datepick.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/js/Common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/js/FrameDiv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/js/jquery-1.11.3.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/js/jquery-1.4.4.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/customer/add.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/customer/edit.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/customer/list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/error.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/linkman/add.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/linkman/edit.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/linkman/list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/page.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/success.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/totals/sources.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/visit/add.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/jsp/visit/list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/menu.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/regist.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/top.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/crm_28_war_exploded/welcome.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/BaseDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/BaseDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/CustomerDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/CustomerDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/DictDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/DictDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/LinkmanDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/LinkmanDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/UserDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/UserDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/VisitDao.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/dao/VisitDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/Customer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/Customer.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/Dict.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/Dict.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/Linkman.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/Linkman.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/PageBean.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/User.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/User.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/Visit.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/domain/Visit.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/reflect/Penson.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/reflect/ReflectDemo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/CustomerService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/CustomerServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/DictService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/DictServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/LinkmanService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/LinkmanServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/UserService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/UserServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/VisitService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/service/VisitServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/test/BaseDaoImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/test/BaseTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/test/Demo1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/test/Person.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/test/Role.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/utils/FastJsonUtil.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/utils/MD5Utils.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/utils/UploadUtils.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/web/action/BaseAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/web/action/CustomerAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/web/action/DictAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/web/action/LinkmanAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/web/action/UserAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/web/action/VisitAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/com/itheima/web/interceptor/UserInterceptor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/crm_28/struts.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/BaseDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/BaseDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/CustomerDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/CustomerDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/DictDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/DictDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/LinkmanDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/LinkmanDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/UserDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/UserDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/VisitDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/dao/VisitDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Customer.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Customer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Dict.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Dict.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Linkman.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Linkman.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/PageBean.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/User.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Visit.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Visit.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/reflect/Penson.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/reflect/ReflectDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/CustomerService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/CustomerServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/DictService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/DictServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/LinkmanService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/LinkmanServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/UserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/VisitService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/service/VisitServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/test/BaseDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/test/BaseTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/test/Demo1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/test/Person.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/test/Role.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/utils/FastJsonUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/utils/MD5Utils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/utils/UploadUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/web/action/BaseAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/web/action/CustomerAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/web/action/DictAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/web/action/LinkmanAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/web/action/UserAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/web/action/VisitAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/web/interceptor/UserInterceptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/struts.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/" />
+    <ignored path="out/" />
+    <ignored path="crm_28.iml" />
+    <manually-removed-from-ignored>
+      <directory path="$PROJECT_DIR$/out/" />
+    </manually-removed-from-ignored>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -402,6 +22,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="BaseDaoImpl.java" pinned="false" current-in-tab="false">
@@ -978,11 +599,6 @@
               <item name="crm_28" type="b2602c69:ProjectViewProjectNode" />
               <item name="crm_28" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="crm_28" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crm_28" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -998,7 +614,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crm_28.iml" />
     <property name="SearchEverywhereHistoryKey" value="type&#9;PSI&#9;JAVA://java.lang.reflect.Type" />
   </component>
   <component name="RunDashboard">
@@ -1252,12 +868,20 @@
       <updated>1517039450103</updated>
       <workItem from="1517039452931" duration="16902000" />
       <workItem from="1517122861902" duration="7513000" />
-      <workItem from="1517146010578" duration="1532000" />
+      <workItem from="1517146010578" duration="2231000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次">
+      <created>1517147734893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517147734893</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25947000" />
+    <option name="totallyTimeSpent" value="26646000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1270,21 +894,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2625786" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23279649" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23279649" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
